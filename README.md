@@ -32,7 +32,37 @@ The development environment utilized **Visual Studio Code (VS Code)**, selected 
    - View the result and continue or exit (option 5).
 
 **Sample Output**:
+```
+Welcome to ~DIWA Simple CLI PYTHON Calculator!
 
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Choose (1-5): 3
+First number: 2
+Second number: 5
+Result: 10.0
+
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Choose (1-5): 2
+First number: 34
+Second number: 456
+Result: -422.0
+
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+Choose (1-5): 
+
+```
 
 If Python is not recognized in the terminal, verify that it is added to the system's PATH environment variable.
 
