@@ -1,5 +1,3 @@
-# todo.py
-
 import os
 
 TASKS_FILE = 'tasks.txt'
